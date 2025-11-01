@@ -56,7 +56,7 @@ Enhancement focus: migrate MongoDB to a secure cloud environment (MongoDB Atlas)
 ---
 
 ## 📷 Screenshots & Evidence
-*(Screenshots of the ePortfolio homepage and project enhancements will be added in future modules.)*
+*(Screenshots)*
 
 ---
 

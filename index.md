@@ -9,12 +9,20 @@ This portfolio highlights my projects, coursework, and professional growth as pa
 
 ---
 
-## 🎓 About Me
-I’m passionate about designing efficient, secure, and user-friendly solutions.  
-My focus areas include:
-- Secure Full-Stack Web Development (MEAN Stack)
-- Systems and Database Analysis
-- Agile Project Management and Continuous Improvement
+## 🧩 Self-Introduction
+- **Program length:** I’ve been in the Computer Science program since 2022.  
+- **Top 3 skills learned:** Secure full-stack development, algorithm optimization, and database design.  
+- **Enhancement goals:** Strengthen architecture, performance, and data security across my Travlr app.  
+- **Career alignment:** These skills prepare me for a Systems Analyst / Secure Full-Stack Developer role.
+
+---
+
+## 🧭 ePortfolio Setup
+My ePortfolio is hosted on GitHub Pages at [https://dominoe27.github.io/Portfolio](https://dominoe27.github.io/Portfolio).  
+Below is a screenshot of the live homepage with the visible URL.  
+*(Insert screenshot here before submitting the assignment.)*
+
+---
 
 ---
 
@@ -31,10 +39,10 @@ Enhancing the Travlr MEAN web application to demonstrate skills in:
 ---
 
 ### **Secure Coding (CS-405)**
-C++ secure coding projects focusing on:
-- Buffer overflow prevention
-- Input validation
-- Static analysis and encryption
+C++ secure-coding projects focusing on:
+- Buffer overflow prevention  
+- Input validation  
+- Static analysis and encryption  
 
 🔗 [View Project Repository](https://github.com/Dominoe27/CS405SecureCoding)
 
@@ -59,6 +67,7 @@ Travlr web app using the MEAN stack with secure admin authentication and dynamic
 
 🔗 [View Project Repository](https://github.com/Dominoe27/CS465FullStack)
 
+
 ---
 
 ## 🧠 Skills & Tools
@@ -78,6 +87,16 @@ Travlr web app using the MEAN stack with secure admin authentication and dynamic
 
 ## 📷 Screenshots & Evidence
 
+
+---
+
+## 🧩 ePortfolio Overall Skill Set
+Through these enhancements, my ePortfolio demonstrates all five program outcomes:
+1. Software design & development principles  
+2. Algorithm & data-structure design  
+3. Database management & security  
+4. Systematic problem solving & evaluation  
+5. Effective technical communication  
 
 ---
 

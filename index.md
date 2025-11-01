@@ -17,13 +17,6 @@ This portfolio highlights my projects, coursework, and professional growth as pa
 
 ---
 
-## 🧭 ePortfolio Setup
-My ePortfolio is hosted on GitHub Pages at [https://dominoe27.github.io/Portfolio](https://dominoe27.github.io/Portfolio).  
-Below is a screenshot of the live homepage with the visible URL.  
-*(Insert screenshot here before submitting the assignment.)*
-
----
-
 ## 💻 Projects & Artifacts
 
 ### **Software Engineering & Design (CS-320)**

@@ -22,7 +22,7 @@ This portfolio highlights my projects, coursework, and professional growth as pa
 ### **Software Engineering & Design (CS-320)**
 **Contact Service Project** — Java-based application demonstrating modular object-oriented design and testing principles.  
 Enhancement focus: add data persistence with local database or JSON storage, improve exception handling, and strengthen modularity.  
-🔗 [View Project Repository](https://github.com/Dominoe27/CS320SoftwareTest)
+🔗 [View Project Repository](https://github.com/Dominoe27/ContactManagementService)
 
 ---
 
